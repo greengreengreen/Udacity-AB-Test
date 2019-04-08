@@ -249,4 +249,5 @@ My recommendation would be to launch the experiment. </br>
 According to the effect size test results and sign test results, we can conclude that the gross conversion rate of experiment group is less than that of the control group at a confidence level of 95%. And that there's not enough evidence indicating that the net conversion rate is different from the two groups. We reach the goal of "reducing the number of frustrated students who left the free trial because they didn't have enough time—without significantly reducing the number of students to continue past the free trial and eventually complete the course". Hence, we can launch the experiment.</br>
 I will run a follow-up experiment to further justify the experiment. Instead of letting the students directly enroll when indicating five hours or more available, maybe 6 hours or more will have lower gross conversion rate without reducing too much the net conversion rate. 
 
-
+## Reference
+https://www.udacity.com/course/ab-testing--ud257
